@@ -1,0 +1,16 @@
+body{
+    background-image: url(../images/background.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: fixed;
+   
+}
+button{
+    margin-left: -30px;
+}
+.rows{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
