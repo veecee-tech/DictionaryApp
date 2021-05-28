@@ -1,1 +1,1 @@
-web: gunicorn my_dictionary.wsgi
+web: gunicorn my_dictionary.wsgi:application --log-file -
